@@ -208,6 +208,7 @@ nav ul li {
     text-align: center;
     width: 21.875rem;
     padding: 1rem;
+    overflow: scroll;
 }
 
 .project-container p {
